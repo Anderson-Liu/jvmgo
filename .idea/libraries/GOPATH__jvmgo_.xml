@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;jvmgo&gt;">
+    <CLASSES>
+      <root url="file:///usr/local/Code/go/src/golang-markdown-previewer:" />
+      <root url="file:///usr/local/Code/go/src/honnef.co" />
+      <root url="file:///usr/local/Code/go/src/learn" />
+      <root url="file:///usr/local/Code/go/src/jvmgo-book" />
+      <root url="file:///usr/local/Code/go/src/github.com" />
+      <root url="file:///usr/local/Code/go/src/golang.org" />
+      <root url="file:///usr/local/Code/go/src/jvm.go" />
+      <root url="file:///usr/local/Code/go/src/FalconEngine" />
+      <root url="file:///usr/local/Code/go/src/sego" />
+      <root url="file:///usr/local/Code/go/src/gopkg.in" />
+      <root url="file:///usr/local/Code/go/src/jvmgo" />
+      <root url="file:///usr/local/Code/go/src/gopl.io" />
+      <root url="file:///usr/local/Code/go/src/golang-markdown-previewer" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
